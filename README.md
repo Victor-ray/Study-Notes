@@ -1,6 +1,41 @@
 # Study-Notes
 
-一个大学生的学习笔记与求职复习资料库。将零散经验整理成可执行的方法、检查清单和练习安排，方便复习，也方便分享。
+个人学习笔记与实用资料库，收集经验手册、复习资料和操作方法，也作为个人 GitHub 仓库的分类导航入口。
+
+<!-- personal-organization:start -->
+## 个人仓库导航
+
+按日常用途整理，方便查找资料、继续项目和维护工具。
+
+| 分类 | 仓库 | 主要内容 / 维护入口 |
+| --- | --- | --- |
+| 个人资料 | [Study-Notes](https://github.com/Victor-ray/Study-Notes) | 学习笔记、经验手册与复习资料；现有资料见下方导航 |
+| 自己开发与学习的项目 | [Agent_Project_OnCall](https://github.com/Victor-ray/Agent_Project_OnCall) | SuperBizAgent：Java / Spring Boot、RAG 问答与 Agent 运维 |
+| 自己开发与学习的项目 | [AI-coding](https://github.com/Victor-ray/AI-coding) | AI 编程实践；目前主要为 `Game/` 下的 Godot 卡牌游戏《狱火爬升》 |
+| 自用工具与工作流 | [skills](https://github.com/Victor-ray/skills) | 个人 Codex Skills；目前为 `lls-csdn` 中文技术科普写作技能 |
+| 自用工具与工作流 | [ai-daily-news](https://github.com/Victor-ray/ai-daily-news) | 基于 TrendRadar 的资讯采集与推送；配置和上游来源见仓库说明 |
+| 网站与博客 | [Victor-ray.github.io](https://github.com/Victor-ray/Victor-ray.github.io) | Hexo / Butterfly 博客静态部署文件；源码位置待确认 |
+| 网站与博客 | [victor-homepage](https://github.com/Victor-ray/victor-homepage) | Vue 3 + Vite 像素主页源码及部署流程 |
+| 网站与博客 | [ray-s-home-page](https://github.com/Victor-ray/ray-s-home-page) | 原生 HTML / CSS / JavaScript 主页与媒体素材 |
+
+### 新内容放在哪里
+
+- **能独立运行或部署的项目**：单独建仓库；小实验只有在属于同一个实践集合时才放在已有项目中。
+- **零散笔记、手册、复习资料**：归入本仓库，先按主题收纳，有实际内容时再增加目录。
+- **可复用的 Skill 与配套资源**：归入 `skills`，每个 Skill 使用独立目录。
+- **基于上游的自用工具**：保留来源和许可证，区分个人配置、个人改动与上游代码。
+- **网站**：在对应站点源码仓库维护；源码与生成文件分清楚。
+
+本仓库现有秋招手册位于 `career/autumn-recruitment/`；现有 PDF 保留原路径，避免已有链接失效。后续同主题资料优先归入 `career/`。
+
+### 维护约定
+
+- 每个仓库的 README 说明用途、主要入口和维护方式。
+- 三个网站分别记录用途；是否继续长期维护，由实际使用情况决定。
+- 本次目录与文档整理不代表项目或自动任务已重新运行验收。
+
+仓库分类整理日期：2026-11-13。
+<!-- personal-organization:end -->
 
 ## 资料导航
 
@@ -49,4 +84,4 @@
 - 截图中的公司范围、语言优势、分数区间和提分个例属于经验性说法，不应当作统一结论；文档已单独说明这些边界。
 - 原图内容与整理内容分别归其对应作者所有，不将转载的经验包装为本人原创成果。公开引用时请保留来源说明。
 
-当前资料整理日期：2026-09-30。
+笔试 PDF 资料整理日期：2026-09-30；本 README 仓库导航更新于 2026-11-13。
