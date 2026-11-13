@@ -6,7 +6,17 @@
 
 | 资料 | 内容 | 格式 |
 | --- | --- | --- |
+| [秋招准备手册](./career/autumn-recruitment/index.html) | 面向 2028 届的实习与秋招时间线、投递渠道、材料清单和面试复盘 | HTML，离线单文件 |
 | [笔试 - AI Coding 技巧](./笔试-aicoding技巧.pdf) | AI 协作编程的解题流程、提示词模板、测试方法与考场检查清单 | PDF，10 页，含 4 张经验原图 |
+
+## 秋招准备手册
+
+面向 2028 届求职者，包含实习与秋招时间线、投递渠道、申请材料清单、千问辅助面试复盘和飞书投递记录表。
+
+- [查看 HTML 文件](./career/autumn-recruitment/index.html)
+- [下载手册](https://github.com/Victor-ray/Study-Notes/raw/refs/heads/main/career/autumn-recruitment/index.html)
+
+下载后用浏览器打开即可使用交互功能，无需安装依赖。GitHub 文件页显示源码，暂未提供在线网页预览。招聘时间和工具入口请按实际情况核对。
 
 ## 笔试 - AI Coding 技巧
 
